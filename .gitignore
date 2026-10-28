@@ -1,0 +1,20 @@
+# Large trained models
+Models/best_model.pkl
+Models/customer_churn_model.pkl
+
+# Keep encoders.pkl tracked if needed by the application
+
+# Dataset
+*.csv
+
+# Python and Jupyter
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+credentials.json
+
+.directory
